@@ -15,7 +15,7 @@ async function testGemini() {
   console.log("🔑 Using model: gemini-2.5-flash");
 
   const response = await fetch(
-    `https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=AIzaSyBznulnNoH3hgvvU60NiCcNko1RwAZ3dAM`, // ✅ NEW MODEL NAME
+    `https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=`, // ✅ NEW MODEL NAME
     {
       method: "POST",
       headers: {
