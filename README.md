@@ -17,12 +17,6 @@ A full-stack prototype web application that uses a hybrid AI approach to generat
 - **Policymaker Dashboard**: Data visualization, skill demand analysis, and policy insights
 - **Admin Dashboard**: User management, content management, and system analytics
 
-### AI Integration
-- **Hybrid AI Approach**: Combines API integration with future-ready model training
-- **OpenAI GPT API**: For conversational assistance and content generation
-- **HuggingFace Inference API**: For NLP and intent detection
-- **Future ML Pipeline**: PyTorch/TensorFlow integration (Coming Soon)
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 15, TypeScript, Tailwind CSS, Framer Motion
@@ -140,18 +134,3 @@ src/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- OpenAI for GPT API integration
-- HuggingFace for inference API
-- Next.js team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- Framer Motion for smooth animations
-
-## 📞 Support
-
-For support, email support@learnpathai.com or join our Discord community.
-
----
-
-**Built with ❤️ for the future of personalized learning**
